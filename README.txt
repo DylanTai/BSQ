@@ -1,5 +1,5 @@
 # BSQ
-A project done during the C Piscine in 42 that finds the largest possible square that can be made inside a rectangle.
+A project done during the C Piscine in 42 Silicon Valley that finds the largest possible square that can be made inside a rectangle.
 
 Differences from the PDF:
 ---
